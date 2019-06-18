@@ -1,4 +1,5 @@
 # hello-world
 run
 My name is ajay khandbhor
-I Ma fom Bandra 
+I am fom Bandra 
+I have completed BE
